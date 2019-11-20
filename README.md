@@ -1,2 +1,2 @@
 # BlueSignLocator
-openCV c++
+Please read the README.pdf.
