@@ -5,7 +5,9 @@ This was for a class project. We were given real life images and were supposed t
 ![BlueSignSampleResults](https://user-images.githubusercontent.com/42900802/69480776-4a731180-0e02-11ea-8aee-acfcac151fde.png)
 
 Precision: 0.94
+
 Recall: 0.8
+
 F1: 0.87
 
 This is how the sign extraction side of my algorithm works.
